@@ -1,3 +1,5 @@
+# to run this, ARSS (https://arss.sourceforge.net/) and ffmpeg must be installed on your system
+
 import scratchattach as sa
 from threading import Thread
 import os
@@ -5,7 +7,7 @@ from subprocess import Popen, PIPE
 import numpy as np
 from PIL import Image
 import subprocess
-from pytubefix import YouTube
+#from pytubefix import YouTube
 import time
 import math
 from scratchattach import Encoding
