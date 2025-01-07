@@ -9,7 +9,6 @@ from PIL import Image
 import subprocess
 #from pytubefix import YouTube
 import time
-import math
 from scratchattach import Encoding
 import dhooks
 import json
