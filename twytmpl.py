@@ -7,7 +7,6 @@ from subprocess import Popen, PIPE
 import numpy as np
 from PIL import Image
 import subprocess
-#from pytubefix import YouTube
 import time
 from scratchattach import Encoding
 import dhooks
